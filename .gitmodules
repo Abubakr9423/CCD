@@ -1,0 +1,6 @@
+[submodule "RaceGameUnity"]
+	path = RaceGameUnity
+	url = https://github.com/Abubakr9423/Racegameunity.git
+[submodule "race-game-"]
+	path = race-game-
+	url = https://github.com/Abubakr9423/race-game-.git
